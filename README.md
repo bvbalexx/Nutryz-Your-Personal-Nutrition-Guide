@@ -1,6 +1,7 @@
 Description:
 
 Nutryz is a comprehensive web platform designed to provide information and assistance related to nutrition, calorie tracking, and macronutrient management. While still under development, the project already features a functional user authentication system and a user panel. The core functionality revolves around helping users make informed decisions about their nutrition by offering insights into calorie intake and macronutrient distribution.
+
 Key Features:
 
 User Authentication System: Nutryz includes a robust user authentication system, ensuring secure access to personalized nutrition information.
